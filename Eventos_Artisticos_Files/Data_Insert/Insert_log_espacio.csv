@@ -1,0 +1,10 @@
+Id_log,Id_Esp,Esp_Adress,Esp_Email,Esp_Name,Esp_Capacity,Esp_Phone,Esp_Alquiler,NOMBRE_DE_ACCION,NOMBRE_TABLA,USUARIO,FECHA_UPD_INS_DEL
+1,4,"corrientes 150",Magarelo@pepe.com,Taxonomi,15000,29246354,150000,update,espacio,root@localhost,"2022-08-22 20:30:33"
+2,4,"corrientes 150",Magarelo@pepe.com,Taxonomi,15000,29246354,150000,delete,espacio,root@localhost,"2022-08-22 20:30:34"
+3,5,"Gorriti 1255",luxor@gmail.com,Luxor,5000,1152636258,15000,update,espacio,root@localhost,"2022-09-12 14:42:44"
+4,6,"Av Garay 2500",turben@yahoo.com,Turbina,600,1152636258,75000,update,espacio,root@localhost,"2022-09-12 14:43:33"
+5,7,"pringles 250",Uron@gmail.com,Uron,1000,1152636258,90000,update,espacio,root@localhost,"2022-09-12 14:44:31"
+6,8,"Rivera indarte 1520",pibes@hotmail.com,Paves,6000,1152636258,12000,update,espacio,root@localhost,"2022-09-12 14:45:41"
+7,9,"Mendoza 590",Hattori@gmail.com,Hattori,3000,1152636258,100000,update,espacio,root@localhost,"2022-09-12 14:46:27"
+8,10,"Corrientes 5890",Leveriun@gmail.com,Leverium,9500,1152636258,200000,update,espacio,root@localhost,"2022-09-12 14:47:13"
+9,11,"gallardo 145",delviento@hotmail.com,"Teatro del Viento",700,2995526325,150000,update,espacio,root@localhost,"2022-09-13 12:34:57"

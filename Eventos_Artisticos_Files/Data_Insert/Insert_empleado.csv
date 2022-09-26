@@ -1,0 +1,11 @@
+Id_Emp,Emp_Espec,Emp_Email,Emp_Name,Emp_Lastname,Emp_Phone,Emp_Cuit,Emp_Sueldo
+1,1,ramones@gmail.com,Guillermo,Gonzalez,118563547,275232552,15000
+2,2,lean@fito.es,Leandro,Ousset,118751547,277732552,12000
+3,3,Jorge@hotmail.com,Jorge,Lista,118441547,277785252,11000
+4,1,machinga@gmail.com,Mario,Avalos,29413,32625212584,65000
+5,1,carlos@lujan.net,Carlos,Lujan,29985262587,20361259525,95000
+6,4,Maximan@sierra.tl,Maximiliano,Fernandez,2995526325,20253269524,52000
+7,5,carlajor@hotmail.com,Carla,Gastavina,112635265,20272595214,65000
+8,5,mtx2525@gmail.com,Martin,Righy,1152635258,202596325874,35000
+9,2,canbu@ircap.cl,Camilo,Pont,2995263215,20326952152,85000
+10,1,teronio@gmail.com,Alejandro,perez,1195623321,20121598856,85000

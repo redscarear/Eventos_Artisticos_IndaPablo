@@ -1,0 +1,26 @@
+			Instructivo de instalacion de la DB Eventos_Artisticos:
+
+Hay dos maneras de cargar la base de datos.
+
+A -	Modulo por modulo, que encontrara los archivos en la carpeta Proyecto_Final:
+
+	1-	Creacion de la DB u estucturas de las tablas, a partir del script llamado 1_EventosArtisticos_Schema_Tables.sql
+
+	2-	Insercion de datos para la DB a partir del script llamado 2_EventosArtisticos_Insert_Data.sql , 
+		o tambien por medio de archivos CSV, que se encuentran en el directorio Data_Insert.
+
+	3-	Creacion de vistas a partir del script llamado 3_EventosArtisticos_Views.sql
+
+	4-	Creacion de Funciones a partir del script 4_EventosArtisticos_Functions.sql
+
+	5-	Creacion de Procedimientos a partir del script 5_EventosArtisticos_StoreProcedures.sql
+
+	6-	Creacion de Triggers y tablas de Logs a partir del script 6_EventosArtisticos_Triggers.sql
+
+	7-	Creacions de Usuarios y Permisos a partir del script 7_EventosArtisticos_Usuarios_Permisos.sql
+
+B -	Restaurando copia de seguridad (Back Up)
+
+	1-	el archivo 8_EventosArtisticos_BackUp.sql contiene un Backup de todo el proyecto, 
+		el cual se ejecuta y creara toda la Estructura de la DB, sus Herramientas y datos de las tablas.
+	
